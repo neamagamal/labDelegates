@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\lab6 del\bin\Debug\lab6 del.exe.config
+C:\Users\User\source\repos\lab6 del\bin\Debug\lab6 del.exe
+C:\Users\User\source\repos\lab6 del\bin\Debug\lab6 del.pdb
+C:\Users\User\source\repos\lab6 del\obj\Debug\lab6 del.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab6 del\obj\Debug\lab6 del.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab6 del\obj\Debug\lab6 del.exe
+C:\Users\User\source\repos\lab6 del\obj\Debug\lab6 del.pdb
